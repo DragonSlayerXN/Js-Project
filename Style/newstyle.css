@@ -1,0 +1,23 @@
+.selections {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .selection {
+    background: none;
+    border: none;
+    outline: none;
+  }
+
+  .results {
+    margin-top: 1rem;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+  }
+  
+  .result-score {
+    margin-left: .1rem;
+    color: #333;
+  }
